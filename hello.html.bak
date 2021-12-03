@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<tittle><h1>Welcome to Mytrain</h1></tittle>
+</head>
+<body>
+	
+	<h3>Train No : 13124
+		Train name : Basava Express
+		From : Kalaburagi 
+		To : Yeshwanthpura
+		Depature Time : 09:00 PM
+		Duration : 12:00 Hours</h3>
+		
+	<h3>Train No : 12610
+		Train name : Chennai Express
+		From : Chennai
+		To : Bangalore
+		Depature Time : 04:00 PM
+		Duration : 03:00 Hours</h3>
+		
+	<h3>Train No : 16518
+		Train name : Golgumbaz Express
+		From : Vijaypura
+		To : Bangalore
+		Depature Time : 06:00 PM
+		Duration : 15:00 Hours</h3>
+		
+	<h3>Train No : 10634
+		Train name : Mysore passenger
+		From : Bangalore
+		To : Mysore
+		Depature Time : 09:00 AM
+		Duration : 04:00 Hours</h3>
+		
+	<h3>Train No : 13184
+		Train name : Karwar Express
+		From : Bangalore
+		To : Karwar
+		Depature Time : 08:00 AM
+		Duration : 09:00 Hours</h3>
+	
+</body>
+</html>
